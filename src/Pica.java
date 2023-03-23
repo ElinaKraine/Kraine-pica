@@ -17,7 +17,7 @@ public class Pica  extends EsosasPicas{
 		return galaCena;
 	}
 	public String info() {
-		return "\nPica: "+dabutNosaukums()+"\nIzmērs: "+dabutIzmers();
+		return "Pica: "+dabutNosaukums()+"\nIzmērs: "+dabutIzmers();
 	}
 
 }

@@ -1,0 +1,12 @@
+1. pasutijums:
+Pica: Četru gadalaiku
+Izmērs: 20cm
+Piegāde: Nav
+_____________
+1. pasutijums:
+Pica: Četru gadalaiku
+Izmērs: 20cm
+Piegāde: Ir
+Vards: elina
+Adrese: kjaf
+Talrunis: 255
