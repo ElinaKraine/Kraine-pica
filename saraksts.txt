@@ -1,10 +1,10 @@
 Nr.1
-Pica (1) : Mafija
+Pica (2) : Mafija
 Izmērs: 50cm
-Dzērieni: Nav
+Dzērieni: Pepsi
 Piegāde: Ir
-Cena: 29,39€
-Vards: zdfg
-Adrese: zdfg
-Talrunis: 12345678
+Cena: 50,77€
+Vards: xfg
+Adrese: sfh
+Talrunis: +371 29555076
 _________________________

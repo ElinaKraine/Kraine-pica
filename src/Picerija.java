@@ -107,8 +107,8 @@ public class Picerija extends JFrame implements ActionListener{
 					adrese = (String) JOptionPane.showInputDialog("Adrese: ");
 				}while(adrese.length()<3);
 				do {
-					talrunis = (String)JOptionPane.showInputDialog("Tālrūnis: ");
-				}while(talrunis.length()!=8);
+					talrunis = (String)JOptionPane.showInputDialog("Tālrūnis: ", "+371 ");
+				}while(talrunis.length()!=13);
 				pasutijumsSaraksts.add(new Lidznemsana(adrese, talrunis, vards));
 				izveidot(picasSaraksts, pasutijumsSaraksts);
 				JOptionPane.showMessageDialog(null, "Cena: "+dF.format(((Pica) picasSaraksts.get(ind-1)).cena())+" €");
