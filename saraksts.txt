@@ -1,12 +1,10 @@
-1. pasutijums:
-Pica: Četru gadalaiku
-Izmērs: 20cm
-Piegāde: Nav
-_____________
-1. pasutijums:
-Pica: Četru gadalaiku
-Izmērs: 20cm
+Nr.1
+Pica (1) : Mafija
+Izmērs: 50cm
+Dzērieni: Nav
 Piegāde: Ir
-Vards: elina
-Adrese: kjaf
-Talrunis: 255
+Cena: 29,39€
+Vards: zdfg
+Adrese: zdfg
+Talrunis: 12345678
+_________________________

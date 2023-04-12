@@ -1,2 +1,0 @@
-# Kraine-pica
-Kļūdu labojumi

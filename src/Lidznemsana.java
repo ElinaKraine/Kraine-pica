@@ -1,8 +1,7 @@
 
 public class Lidznemsana{
-	String vards, adrese;
-	int talrunis;
-	public Lidznemsana(String adrese, int talrunis, String vards){
+	String vards, adrese, talrunis;
+	public Lidznemsana(String adrese, String talrunis, String vards){
 		this.vards = vards;
 		this.adrese = adrese;
 		this.talrunis = talrunis;
@@ -13,11 +12,11 @@ public class Lidznemsana{
 	public String dabutVards() {
 		return vards;
 	}
-	public int dabutTalr() {
+	public String dabutTalr() {
 		return talrunis;
 	}
 	public String info() {
-		return "Vards: "+dabutVards()+"\nAdrese: "+dabutAdrese()+"\nTalrunis: "+dabutTalr();
+		return "\nVards: "+dabutVards()+"\nAdrese: "+dabutAdrese()+"\nTalrunis: "+dabutTalr();
 	}
 
 }
