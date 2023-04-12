@@ -7,3 +7,4 @@
 ### Veicamo darbu sarakstu
 - [x] Iestatiet adrešu ievades ierobežojumus
 - [x] Iestatiet vārdu ievades ierobežojumus
+- [x] Pievienoja pie numura +371
