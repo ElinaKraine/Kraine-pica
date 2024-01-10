@@ -1,4 +1,4 @@
-# Kraine-pica:pizza:
+# Picērija:
 
 Šī programma parāda picērijas sākumlapu, izvēlni, iespēju pasūtīt un iespēju izdzēst pasītījumu.
 
